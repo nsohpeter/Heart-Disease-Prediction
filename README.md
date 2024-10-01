@@ -34,7 +34,7 @@ To run this application, you need:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Prem07a/Heart-Disease.git
+git clone https://github.com/nsohpeter/Heart-Disease-Prediction.git
 ```
 
 2. Navigate to the project directory:
@@ -81,8 +81,4 @@ The following input features can be adjusted in the app:
 
 After adjusting the input features and clicking "Predict," the app will display the predicted outcome, indicating whether the prediction suggests a positive or negative likelihood of heart disease.
 
-## Thanks
 
-I would like to thank <a href = "https://github.com/Akshat-Projects">Akshat</a> for reporting a bug in streamlit app.
-
----
