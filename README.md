@@ -81,4 +81,5 @@ The following input features can be adjusted in the app:
 
 After adjusting the input features and clicking "Predict," the app will display the predicted outcome, indicating whether the prediction suggests a positive or negative likelihood of heart disease.
 
-
+link of the web app 
+https://heartdiseasediagnos.streamlit.app/
